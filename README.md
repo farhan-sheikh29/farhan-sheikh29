@@ -1,6 +1,6 @@
 <!-- Hero Banner -->
 <h1 align="center">Hi 👋, I'm <span style="color:#00acee;">Sheikh Farhan</span></h1>
-<h3 align="center">AI & Full-Stack Developer • Automation Engineer • Builder of Useful Things</h3>
+<h3 align="center">Full-Stack Engineer• Automation Engineer • Builder of Useful Things</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/AI%20Engineer-%2300B4D8.svg?style=for-the-badge&logo=openai&logoColor=white" />
@@ -88,5 +88,5 @@ A platform connecting users to property owners/vendors for bookings.
 ---
 
 ## 📫 Contact Me  
-📩 **Email:** divyanshu.shx@gmail.com    
-🌐 **Portfolio:** https://divyanshu-portfolio-nu.vercel.app  
+📩 **Email:** sheikhfarhan328@gmail.com   
+🌐 **Portfolio:** https://farhan-sheikh-portfolio.vercel.app/
